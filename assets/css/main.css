@@ -162,23 +162,23 @@ input, select, textarea {
 	}
 
 	h5 {
-		font-size: 0.9em;
+		font-size: 1em;
 		line-height: 1.5em;
 	}
 
 	h6 {
-		font-size: 0.7em;
+		font-size: 1em;
 		line-height: 1.5em;
 	}
 
 	sub {
-		font-size: 0.8em;
+		font-size: 1em;
 		position: relative;
 		top: 0.5em;
 	}
 
 	sup {
-		font-size: 0.8em;
+		font-size: 1em;
 		position: relative;
 		top: -0.5em;
 	}
@@ -205,14 +205,14 @@ input, select, textarea {
 		border-radius: 5px;
 		color: #fff;
 		font-family: "Source Code Pro", monospace;
-		font-size: 0.9em;
+		font-size: 1em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
 	}
 
 	pre {
 		font-family: "Source Code Pro", monospace;
-		font-size: 0.9em;
+		font-size: 1em;
 		margin: 0 0 2.25em 0;
 	}
 
@@ -1779,7 +1779,7 @@ input, select, textarea {
 	header h4 + p,
 	header h5 + p,
 	header h6 + p {
-		font-size: 0.9em;
+		font-size: 1em;
 		margin-top: -0.25em;
 		line-height: 1.5em;
 	}
@@ -1805,7 +1805,7 @@ input, select, textarea {
 	label {
 		color: #777;
 		display: block;
-		font-size: 0.9em;
+		font-size: 1em;
 		font-weight: 700;
 		margin: 0 0 1.125em 0;
 	}
@@ -1933,7 +1933,7 @@ input, select, textarea {
 				border: solid 2px #e4e4e4;
 				content: '';
 				display: inline-block;
-				font-size: 0.8em;
+				font-size: 1em;
 				height: 2.0625em;
 				left: 0;
 				line-height: 2.0625em;
@@ -2464,7 +2464,7 @@ input, select, textarea {
 
 		table th {
 			color: #777;
-			font-size: 0.9em;
+			font-size: 1em;
 			font-weight: 700;
 			padding: 0 0.75em 0.75em 0.75em;
 			text-align: left;
@@ -2573,7 +2573,7 @@ input, select, textarea {
 		input[type="reset"].small,
 		input[type="button"].small,
 		.button.small {
-			font-size: 0.8em;
+			font-size: 1em;
 		}
 
 		input[type="submit"].large,
@@ -2855,7 +2855,7 @@ input, select, textarea {
 			#footer .copyright li {
 				border-left: solid 1px #d4d4d4;
 				display: inline-block;
-				font-size: 0.8em;
+				font-size: 1em;
 				margin-left: 1em;
 				padding-left: 1em;
 			}
@@ -3238,7 +3238,7 @@ input, select, textarea {
 			}
 
 				#titleBar .toggle:before {
-					font-size: 14px;
+					font-size: 16px;
 					width: 44px;
 				}
 
